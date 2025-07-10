@@ -1,6 +1,8 @@
 # İlk Web Sitesi  
 
 ## Bu uygulama Bootstrap kullanılmıştır.
+## Github page ile yayınlandı.
+### [Bu link ile ulaşabilirsiniz](https://kubilaydin.github.io/Odev-1_Ilk_Web_Site/).
 ## Aşağıdakı sıra ile oluşturuldu.
 * `index.html` eklendi.
 * Başlık kısmı eklendi. 
@@ -115,3 +117,4 @@
         }
     </style>
 ```
+* Github page ile yayınlandı. [Bu link ile ulaşabilirsiniz](https://kubilaydin.github.io/Odev-1_Ilk_Web_Site/).
